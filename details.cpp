@@ -6,10 +6,6 @@
 #include <string.h>
 #include <conio.h>
 #include <cstdlib>
-// #include <math.h>
-// #include <stdlib.h>
-// #include <time.h>
-// using namespace std;
 
 class Details
 {
@@ -53,17 +49,6 @@ public:
             cin >> gender[i];
             // cout << "Yours details are saved with us.\n";
         }
-
-        /* cout << "\n Enter the customer ID :";
-         // cin >> cId;
-         cout << "\n Enter the Name :";
-         cin >> name;
-         cout << "\n Enter the age :";
-         cin >> age;
-         cout << "\n Enter the address :";
-         cin >> add;
-         cout << "\n Gender:";
-         cin >> gender;*/
         cout << "Yours details are saved with us.\n";
 
         cout << "Your PNR number is: " << pnr << endl;
