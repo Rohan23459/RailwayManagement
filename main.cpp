@@ -11,9 +11,5 @@
 int main()
 {
     Management mobj;
-    // orderFood f;
-    // f.foodOptions();
-    // f.displayFoodDatabase();
-
     return 0;
 }
